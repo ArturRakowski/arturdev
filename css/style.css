@@ -266,7 +266,6 @@ h3 { font-size: var(--fs-h3);}
     .intro__img {
         grid-area: img;
         min-width: 220px;
-        transform: rotate(90deg);
         position: relative;
         z-index: 2;
     }
